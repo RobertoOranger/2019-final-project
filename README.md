@@ -16,5 +16,4 @@ Unfurtunately i have not made a front end interface. Sorry. But you can compile 
 
 
 
-(this is a link of copy of this page)
-https://github.com/RobertoOranger/2019-final-project
+
