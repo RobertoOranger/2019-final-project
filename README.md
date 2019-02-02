@@ -1,6 +1,6 @@
 # final-project-RobertoOranger
 final-project-RobertoOranger created by GitHub Classroom.                                                                                        
-This is a simple project for study an application of Contract Factory. A Factory is a contract that creates other contracts.
+This is a simple project to study an application of Contract Factory. A Factory is a contract that creates other contracts.
 
 
 User Stories: 
