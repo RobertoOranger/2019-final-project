@@ -31,7 +31,7 @@ contract CertificateFactory {
     address public owner = msg.sender;
      
   
-    uint counter = 0; // it counts how many new certificates are created
+   
 
     //@dev we store addresses of new contract children ( Certificate.sol) that CertificateFactory create
 
@@ -70,7 +70,7 @@ contract CertificateFactory {
         return address(newCertificate);
         
         //add counter of certificates created (child contracts) 
-        ++counter;
+
 
 
       
@@ -85,7 +85,5 @@ contract CertificateFactory {
 
     }
     
-   function CounterCert() public view returns (uint) {
-       return counter;    
     
 }
