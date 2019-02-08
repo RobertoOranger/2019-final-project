@@ -85,7 +85,7 @@ contract CertificateFactory {
 
     }
     
-   function CounterCert public view returns (uint) {
+   function CounterCert() public view returns (uint) {
        return counter;    
     
 }
